@@ -1,97 +1,71 @@
+.circle {
+  position: absolute;
+  border-radius: 50%;
+  cursor: move;
+}
 
-            #circle1{
-                position: absolute;
-                width: 100px;
-                height: 50px;
-                border-radius: 50%;
-                background-color: #ef5777;
-                cursor: move;
-            }
+#circle1 {
+  width: 100px;
+  height: 50px;
+  background-color: #ef5777;
+}
 
-            #circle2{
-                position: absolute;
-                width: 140px;
-                height: 70px;
-                border-radius: 50%;
-                background-color: #3c40c6;
-                cursor: move;
-            }
+#circle2 {
+  width: 140px;
+  height: 70px;
+  background-color: #3c40c6;
+}
 
-            #circle3{
-                position: absolute;
-                width: 180px;
-                height: 90px;
-                border-radius: 50%;
-                background-color: brown;
-                cursor: move;
-            }
+#circle3 {
+  width: 180px;
+  height: 90px;
+  background-color: brown;
+}
 
-            #circle4{
-                position: absolute;
-                width: 220px;
-                height: 110px;
-                border-radius: 50%;
-                background-color: #aaffc3;
-                cursor: move;
-            }
+#circle4 {
+  width: 220px;
+  height: 110px;
+  background-color: #aaffc3;
+}
 
-            #circle5{
-                position: absolute;
-                width: 260px;
-                height: 130px;
-                border-radius: 50%;
-                background-color: #0be881;
-                cursor: move;
-            }
+#circle5 {
+  width: 260px;
+  height: 130px;
+  background-color: #0be881;
+}
 
-            #circle6{
-                position: absolute;
-                width: 300px;
-                height: 150px;
-                border-radius: 50%;
-                background-color: #9c88ff;
-                cursor: move;
-            }
+#circle6 {
+  width: 300px;
+  height: 150px;
+  background-color: #9c88ff;
+}
 
-            #circle7{
-                position: absolute;
-                width: 340px;
-                height: 170px;
-                border-radius: 50%;
-                background-color: #e84118;
-                cursor: move;
-            }
+#circle7 {
+  width: 340px;
+  height: 170px;
+  background-color: #e84118;
+}
 
-            #circle8{
-                position: absolute;
-                top: 340px;
-                left: 360px;
-                width: 380px;
-                height: 190px;
-                border-radius: 50%;
-                background-color: aquamarine;
-                cursor: move;
-            }
+#circle8 {
+  width: 380px;
+  height: 190px;
+  background-color: aquamarine;
+}
 
-            #circle9{
-                position: absolute;
-                width: 420px;
-                height: 210px;
-                border-radius: 50%;
-                background-color: blueviolet;
-                cursor: move;
-            }
+#circle9 {
+  width: 420px;
+  height: 210px;
+  background-color: blueviolet;
+}
 
-            #circle10{
-                position: absolute;
-                width: 460px;
-                height: 230px;
-                border-radius: 50%;
-                background-color: gold;
-                cursor: move;
-            }
+#circle10 {
+  width: 460px;
+  height: 230px;
+  background-color: gold;
+}
 
-            #heading{
-                margin: 0px;
-                padding: 20px;
-            }
+#heading {
+  margin: 0px;
+  padding: 20px;
+}
+
